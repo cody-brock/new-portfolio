@@ -1,18 +1,16 @@
 {
-    "title": "Resume",
-    "name": "startbootstrap-resume",
+    "title": "Cody Brock Portfolio",
+    "name": "cody-brock-resume",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+    "description": "Cody Brock's portfolio, built using Resume from startbootstrap.com.",
     "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+        "cody",
+        "brock",
+        "portfolio",
+        "resume"
     ],
     "homepage": "https://startbootstrap.com/template-overviews/resume",
     "bugs": {
@@ -20,7 +18,7 @@
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Cody Brock and Start Bootstrap",
     "contributors": [
         "David Miller (http://davidmiller.io/)"
     ],
